@@ -1,0 +1,30 @@
+* {
+   /* border: 1px solid red;*/
+}
+
+.padding-top, img {
+    padding-top: 8rem;
+}
+
+.botao-doc {
+    background-color: #dae7fb;
+    border: none;
+    color: #0061f2;
+}
+
+.paragrafo {
+    width: 26em;
+}
+
+.cor-fonte {
+    color: #929599;
+    font-size: 1.2rem;
+}
+
+.cor-titulo {
+   color: #363d47;
+}
+
+.botao-buy {
+    margin-right: 15rem;
+}
